@@ -108,10 +108,6 @@
 	margin-bottom: 88px;
 	margin-top: 56px;
 }
-.newDivTitle h1 {
-	font-family: Lilita One;
-	font-size: 80px;
-}
 
 .newDivTitle h1 span {
 	color: rgba(0, 93, 174, 1);
@@ -507,7 +503,7 @@
 	}
 
 	.newDivTitle h1 {
-		font-size: 60px;
+		font-size: 60px !important;
 	}
 
 	.c-PJLV-iiMTLeK-css {
@@ -588,7 +584,7 @@
 	}
 
 	.newDivTitle h1 {
-		font-size: 50px;
+		font-size: 50px !important;
 	}
 }
 
@@ -684,7 +680,7 @@
 	}
 
 	.newDivTitle h1 {
-		font-size: 30px;
+		font-size: 30px !important;
 	}
 }
 
@@ -714,5 +710,6 @@ nav {
 
 .newDivTitle h1 {
 	color: #fff;
-	font-size: 80px;
+	font-size: 80px !important;
+	font-family: Lilita One;
 }
