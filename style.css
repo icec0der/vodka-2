@@ -718,13 +718,13 @@
 		font-size: 80px !important;
 		font-family: Lilita One;
 	}
+
+	.new-div {
+		background: #6ed7f7;
+		padding: 50px 50px;
+	}
 }
 
 nav {
 	z-index: 999999999999;
-}
-
-.new-div {
-	background: #6ed7f7;
-	padding: 50px 50px;
 }
