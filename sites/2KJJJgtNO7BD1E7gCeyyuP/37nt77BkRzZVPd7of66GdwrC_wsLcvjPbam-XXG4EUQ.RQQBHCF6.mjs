@@ -1,6 +1,6 @@
 const copy_btn = document.querySelector('.copy-btn')
 
-btn.addEventListener('click', () => {
+copy_btn.addEventListener('click', () => {
 	navigator.clipboard.writeText(copy_text.innerText)
 	copy_btn.textContent = 'Copied!'
 	setTimeout(() => {
