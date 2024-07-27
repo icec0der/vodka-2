@@ -1,5 +1,4 @@
 import { a as H } from './chunk-2YIP5WRJ.mjs'
-import './main'
 import {
 	$ as Ce,
 	A as N,
