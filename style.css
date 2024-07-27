@@ -495,7 +495,7 @@
 	}
 
 	.c-PJLV-idYkkGp-css {
-		display: block;
+		display: block !important;
 	}
 
 	.c-PJLV-iidirVF-css {
@@ -546,11 +546,16 @@
 		margin-bottom: 50px;
 	}
 	.c-PJLV-idYkkGp-css {
-		display: block;
+		display: block !important;
 	}
 
 	.c-PJLV-iidirVF-css {
 		margin-bottom: 20px;
+	}
+
+	.c-PJLV-iidirVF-css {
+		display: flex !important;
+		flex-direction: column !important;
 	}
 }
 
@@ -597,7 +602,7 @@
 	}
 
 	.c-PJLV-idYkkGp-css {
-		display: block;
+		display: block !important;
 	}
 
 	.c-PJLV-iidirVF-css {
