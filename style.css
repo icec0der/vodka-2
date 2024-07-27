@@ -505,6 +505,10 @@
 		margin-bottom: 20px;
 		justify-content: center;
 	}
+
+	.c-PJLV-iiMTLeK-css {
+		padding: 10px 10px;
+	}
 }
 
 @media (min-width: 450px) and (max-width: 735px) {
@@ -562,6 +566,10 @@
 	.c-PJLV-icdoWOC-css {
 		width: 100%;
 	}
+
+	.c-PJLV-iiMTLeK-css {
+		padding: 10px 10px;
+	}
 }
 
 @media (min-width: 200px) and (max-width: 450px) {
@@ -618,6 +626,10 @@
 	.c-PJLV-icdoWOC-css {
 		width: 100%;
 	}
+
+	.c-PJLV-iiMTLeK-css {
+		padding: 10px 10px;
+	}
 }
 
 @media (min-width: 900px) and (max-width: 1330px) {
@@ -628,5 +640,9 @@
 	.c-PJLV-iidirVF-css {
 		margin-bottom: 20px;
 		justify-content: center;
+	}
+
+	.c-PJLV-iiMTLeK-css {
+		padding: 10px 10px;
 	}
 }
