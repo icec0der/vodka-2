@@ -570,6 +570,12 @@
 	.c-PJLV-iiMTLeK-css {
 		padding: 10px 10px;
 	}
+	.loading-bottom {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		gap: 5px;
+	}
 }
 
 @media (min-width: 200px) and (max-width: 450px) {
@@ -582,6 +588,13 @@
 		justify-content: center;
 		gap: 30px;
 		margin-bottom: 20px;
+	}
+
+	.loading-bottom {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		gap: 5px;
 	}
 
 	.buttons_2 button {
@@ -629,6 +642,13 @@
 
 	.c-PJLV-iiMTLeK-css {
 		padding: 10px 10px;
+	}
+
+	.loading-bottom {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		gap: 5px;
 	}
 }
 
