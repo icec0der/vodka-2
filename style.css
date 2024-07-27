@@ -457,6 +457,9 @@
 	.buttons {
 		display: none;
 	}
+	.c-PJLV-icdoWOC-css {
+		width: 100%;
+	}
 	.buttons_2 {
 		display: grid;
 		grid-template-columns: auto auto auto;
@@ -557,6 +560,9 @@
 		display: flex !important;
 		flex-direction: column !important;
 	}
+	.c-PJLV-icdoWOC-css {
+		width: 100%;
+	}
 }
 
 @media (min-width: 200px) and (max-width: 450px) {
@@ -607,6 +613,10 @@
 
 	.c-PJLV-iidirVF-css {
 		margin-bottom: 20px;
+	}
+
+	.c-PJLV-icdoWOC-css {
+		width: 100%;
 	}
 }
 
