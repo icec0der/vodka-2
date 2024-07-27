@@ -609,3 +609,13 @@
 		margin-bottom: 20px;
 	}
 }
+
+@media (min-width: 900px) and (max-width: 1330px) {
+	.c-PJLV-idYkkGp-css {
+		display: block !important;
+	}
+
+	.c-PJLV-iidirVF-css {
+		margin-bottom: 20px;
+	}
+}
