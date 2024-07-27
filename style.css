@@ -506,6 +506,10 @@
 		justify-content: center;
 	}
 
+	.newDivTitle h1 {
+		font-size: 60px;
+	}
+
 	.c-PJLV-iiMTLeK-css {
 		padding: 10px 10px;
 	}
@@ -581,6 +585,10 @@
 	}
 	.framer-PmoIx .framer-1eyo6xm {
 		width: 0;
+	}
+
+	.newDivTitle h1 {
+		font-size: 50px;
 	}
 }
 
@@ -674,6 +682,10 @@
 	.c-gmdRNP-icgUdqR-css {
 		font-size: 16px;
 	}
+
+	.newDivTitle h1 {
+		font-size: 30px;
+	}
 }
 
 @media (min-width: 900px) and (max-width: 1330px) {
@@ -693,8 +705,12 @@
 
 .new-div {
 	background: #6ed7f7;
+	padding: 50px 0;
+	max-width: 1200px;
+	width: 100%;
 }
 
 .newDivTitle h1 {
 	color: #fff;
+	font-size: 80px;
 }

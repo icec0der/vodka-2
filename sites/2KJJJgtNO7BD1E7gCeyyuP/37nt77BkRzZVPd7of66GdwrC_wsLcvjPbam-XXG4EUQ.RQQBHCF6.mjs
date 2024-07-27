@@ -1077,7 +1077,7 @@ var dr = {
 														e('span', {
 															children: '$VODKA',
 														}),
-														' in 10 minutes',
+														'in 10 minutes',
 													],
 												}),
 												e('h1', {
