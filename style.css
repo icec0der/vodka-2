@@ -728,3 +728,7 @@
 nav {
 	z-index: 999999999999;
 }
+
+.newDivTitle h1 {
+	color: #fff;
+}
