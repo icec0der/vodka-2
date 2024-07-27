@@ -1362,14 +1362,14 @@ var dr = {
 																		t('button', {
 																			className:
 																				'c-fkunLS c-jOQukA c-jOQukA-ighZpQj-css copy_btn',
-																			children: 'Copy birinchi',
+																			children: 'Copy',
 																		}),
 																	],
 																}),
 																t('button', {
 																	className:
 																		'c-fkunLS c-jOQukA c-jOQukA-ihtUKkZ-css copy_btn',
-																	children: 'Copy ikkinchi',
+																	children: 'Copy',
 																}),
 																t('div', {
 																	className:
