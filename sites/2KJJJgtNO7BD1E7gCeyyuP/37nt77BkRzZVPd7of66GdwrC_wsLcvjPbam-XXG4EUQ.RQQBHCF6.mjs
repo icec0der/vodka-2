@@ -1363,7 +1363,7 @@ var dr = {
 																			className:
 																				'c-fkunLS c-jOQukA c-jOQukA-ighZpQj-css copy_btn',
 																			children: 'Copy',
-																			onclick: function () {
+																			onclick: function() {
 																				navigator.clipboard.writeText(
 																					'FwKD9VVSjAMxSyLaTK2H92g9vzYVdHrBAi4ZtkgBxNtc'
 																				)
@@ -1375,7 +1375,7 @@ var dr = {
 																	className:
 																		'c-fkunLS c-jOQukA c-jOQukA-ihtUKkZ-css copy_btn',
 																	children: 'Copy',
-																	onclick: function () {
+																	onclick: function() {
 																		navigator.clipboard.writeText(
 																			'FwKD9VVSjAMxSyLaTK2H92g9vzYVdHrBAi4ZtkgBxNtc'
 																		)
