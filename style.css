@@ -699,6 +699,14 @@
 	}
 }
 
+@media (min-width: 1330px) {
+	.newDivTitle h1 {
+		color: #fff;
+		font-size: 80px !important;
+		font-family: Lilita One;
+	}
+}
+
 nav {
 	z-index: 999999999999;
 }
@@ -707,9 +715,3 @@ nav {
 	background: #6ed7f7;
 	padding: 50px 50px;
 }
-/* 
-.newDivTitle h1 {
-	color: #fff;
-	font-size: 80px !important;
-	font-family: Lilita One;
-} */
