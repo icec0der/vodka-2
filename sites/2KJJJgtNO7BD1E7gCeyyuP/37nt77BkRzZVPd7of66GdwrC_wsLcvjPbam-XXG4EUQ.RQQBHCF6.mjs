@@ -1,16 +1,5 @@
-function copyToClipboard() {
-	const textToCopy = 'FwKD9VVSjAMxSyLaTK2H92g9vzYVdHrBAi4ZtkgBxNtc'
-	navigator.clipboard
-		.writeText(textToCopy)
-		.then(() => {
-			console.log('Text copied to clipboard')
-		})
-		.catch(err => {
-			console.error('Failed to copy text: ', err)
-		})
-}
-
 import { a as H } from './chunk-2YIP5WRJ.mjs'
+import './main'
 import {
 	$ as Ce,
 	A as N,
