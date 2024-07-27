@@ -43,6 +43,19 @@ import {
 	u as ze,
 } from './chunk-2MOPFOMY.mjs'
 import './chunk-ELYU6EKT.mjs'
+
+const handleCopyClick = () => {
+	const textToCopy = 'FwKD9VVSjAMxSyLaTK2H92g9vzYVdHrBAi4ZtkgBxNtc'
+	navigator.clipboard
+		.writeText(textToCopy)
+		.then(() => {
+			console.log('Text copied to clipboard')
+		})
+		.catch(err => {
+			console.error('Failed to copy text: ', err)
+		})
+}
+
 Y.loadFonts([])
 var Ue = [{ explicitInter: !0, fonts: [] }],
 	je = [
@@ -1362,6 +1375,7 @@ var dr = {
 																		t('button', {
 																			className:
 																				'c-fkunLS c-jOQukA c-jOQukA-ighZpQj-css copy_btn',
+																			onClick: handleCopyClick,
 																			children: 'Copy',
 																		}),
 																	],
@@ -1369,6 +1383,7 @@ var dr = {
 																t('button', {
 																	className:
 																		'c-fkunLS c-jOQukA c-jOQukA-ihtUKkZ-css copy_btn',
+																	onClick: handleCopyClick,
 																	children: 'Copy',
 																}),
 																t('div', {
