@@ -703,11 +703,13 @@
 	}
 }
 
+nav {
+	z-index: 999999999999;
+}
+
 .new-div {
 	background: #6ed7f7;
-	padding: 50px 0;
-	max-width: 1200px;
-	width: 100%;
+	padding: 50px 50px;
 }
 
 .newDivTitle h1 {
