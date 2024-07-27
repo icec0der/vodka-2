@@ -493,6 +493,14 @@
 	.vodka_title .paragraf {
 		margin-bottom: 50px;
 	}
+
+	.c-PJLV-idYkkGp-css {
+		display: block;
+	}
+
+	.c-PJLV-iidirVF-css {
+		margin-bottom: 20px;
+	}
 }
 
 @media (min-width: 450px) and (max-width: 735px) {
@@ -536,6 +544,13 @@
 
 	.vodka_title .paragraf {
 		margin-bottom: 50px;
+	}
+	.c-PJLV-idYkkGp-css {
+		display: block;
+	}
+
+	.c-PJLV-iidirVF-css {
+		margin-bottom: 20px;
 	}
 }
 
