@@ -1364,7 +1364,6 @@ var dr = {
 																			className:
 																				'c-fkunLS c-jOQukA c-jOQukA-ighZpQj-css copy_btn',
 																			children: 'Copy',
-																			onClick: copyToClipboard,
 																		}),
 																	],
 																}),
