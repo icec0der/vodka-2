@@ -1,13 +1,3 @@
-const copy_btn = document.querySelector('.copy-btn')
-
-copy_btn.addEventListener('click', () => {
-	navigator.clipboard.writeText(copy_text.innerText)
-	copy_btn.textContent = 'Copied!'
-	setTimeout(() => {
-		copy_btn.textContent = 'Copy'
-	}, 2000)
-})
-
 import { a as H } from './chunk-2YIP5WRJ.mjs'
 import {
 	$ as Ce,
