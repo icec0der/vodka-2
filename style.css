@@ -654,8 +654,9 @@
 		gap: 5px;
 	}
 	.newDivTitle p {
-		width: 100%;
-		margin: 10px 5px;
+		width: 80%;
+		display: flex;
+		justify-content: center;
 	}
 	.c-PJLV-idPCaGw-css {
 		display: flex;
