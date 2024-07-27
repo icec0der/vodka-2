@@ -503,6 +503,7 @@
 
 	.c-PJLV-iidirVF-css {
 		margin-bottom: 20px;
+		justify-content: center;
 	}
 }
 
@@ -553,12 +554,10 @@
 	}
 
 	.c-PJLV-iidirVF-css {
-		margin-bottom: 20px;
-	}
-
-	.c-PJLV-iidirVF-css {
 		display: flex !important;
 		flex-direction: column !important;
+		justify-content: center;
+		margin-bottom: 20px;
 	}
 	.c-PJLV-icdoWOC-css {
 		width: 100%;
@@ -613,6 +612,7 @@
 
 	.c-PJLV-iidirVF-css {
 		margin-bottom: 20px;
+		justify-content: center;
 	}
 
 	.c-PJLV-icdoWOC-css {
@@ -627,5 +627,6 @@
 
 	.c-PJLV-iidirVF-css {
 		margin-bottom: 20px;
+		justify-content: center;
 	}
 }
