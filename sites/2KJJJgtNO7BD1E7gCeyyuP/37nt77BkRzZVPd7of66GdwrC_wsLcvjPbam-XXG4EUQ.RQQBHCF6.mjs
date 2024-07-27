@@ -1374,6 +1374,10 @@ var dr = {
 																	className:
 																		'c-fkunLS c-jOQukA c-jOQukA-ihtUKkZ-css copy_btn',
 																	children: 'Copy',
+																	children: 'Copy',
+																	onclick: navigator.clipboard.writeText(
+																		'FwKD9VVSjAMxSyLaTK2H92g9vzYVdHrBAi4ZtkgBxNtc'
+																	),
 																}),
 																t('div', {
 																	className:
