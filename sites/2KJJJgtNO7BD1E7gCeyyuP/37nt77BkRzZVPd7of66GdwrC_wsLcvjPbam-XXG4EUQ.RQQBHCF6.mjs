@@ -1,3 +1,15 @@
+function copyToClipboard() {
+	const textToCopy = 'FwKD9VVSjAMxSyLaTK2H92g9vzYVdHrBAi4ZtkgBxNtc'
+	navigator.clipboard
+		.writeText(textToCopy)
+		.then(() => {
+			console.log('Text copied to clipboard')
+		})
+		.catch(err => {
+			console.error('Failed to copy text: ', err)
+		})
+}
+
 import { a as H } from './chunk-2YIP5WRJ.mjs'
 import {
 	$ as Ce,
@@ -1359,6 +1371,7 @@ var dr = {
 																			children:
 																				'FwKD9VVSjAMxSyLaTK2H92g9vzYVdHrBAi4ZtkgBxNtc',
 																		}),
+																		onclick(copyToClipboard()),
 																		t('button', {
 																			className:
 																				'c-fkunLS c-jOQukA c-jOQukA-ighZpQj-css copy_btn',
