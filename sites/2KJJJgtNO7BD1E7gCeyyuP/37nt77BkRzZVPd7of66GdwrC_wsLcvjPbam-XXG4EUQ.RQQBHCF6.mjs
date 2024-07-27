@@ -1362,11 +1362,13 @@ var dr = {
 
 																		t('button', {
 																			className:
-																				'c-fkunLS c-jOQukA c-jOQukA-ighZpQj-css copy_btn',
+																				'c-fkunLS c-jOQukA c-jOQukA-ihtUKkZ-css copy_btn',
 																			children: 'Copy',
-																			onclick: navigator.clipboard.writeText(
-																				'FwKD9VVSjAMxSyLaTK2H92g9vzYVdHrBAi4ZtkgBxNtc'
-																			),
+																			onclick: function () {
+																				navigator.clipboard.writeText(
+																					'FwKD9VVSjAMxSyLaTK2H92g9vzYVdHrBAi4ZtkgBxNtc'
+																				)
+																			},
 																		}),
 																	],
 																}),
@@ -1374,11 +1376,13 @@ var dr = {
 																	className:
 																		'c-fkunLS c-jOQukA c-jOQukA-ihtUKkZ-css copy_btn',
 																	children: 'Copy',
-																	children: 'Copy',
-																	onclick: navigator.clipboard.writeText(
-																		'FwKD9VVSjAMxSyLaTK2H92g9vzYVdHrBAi4ZtkgBxNtc'
-																	),
+																	onclick: function () {
+																		navigator.clipboard.writeText(
+																			'FwKD9VVSjAMxSyLaTK2H92g9vzYVdHrBAi4ZtkgBxNtc'
+																		)
+																	},
 																}),
+
 																t('div', {
 																	className:
 																		'c-jOUXrB c-gmdRNP c-gmdRNP-icgUdqR-css',
