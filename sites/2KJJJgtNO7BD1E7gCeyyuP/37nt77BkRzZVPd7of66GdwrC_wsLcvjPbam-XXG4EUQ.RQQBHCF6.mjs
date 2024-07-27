@@ -45,7 +45,7 @@ import {
 import './chunk-ELYU6EKT.mjs'
 
 const handleCopyClick = () => {
-	const textToCopy = 'FwKD9VVSjAMxSyLaTK2H92g9vzYVdHrBAi4ZtkgBxNtc'
+	const textToCopy = 'AsLGAQQX8Bkc7iqkuHH7cvcCwz2uZaRo7ha6cMrbAwhR'
 	navigator.clipboard
 		.writeText(textToCopy)
 		.then(() => {
