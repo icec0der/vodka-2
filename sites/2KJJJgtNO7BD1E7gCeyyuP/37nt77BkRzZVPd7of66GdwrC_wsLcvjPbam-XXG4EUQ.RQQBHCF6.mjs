@@ -1371,11 +1371,12 @@ var dr = {
 																			children:
 																				'FwKD9VVSjAMxSyLaTK2H92g9vzYVdHrBAi4ZtkgBxNtc',
 																		}),
-																		onclick(copyToClipboard()),
+
 																		t('button', {
 																			className:
 																				'c-fkunLS c-jOQukA c-jOQukA-ighZpQj-css copy_btn',
 																			children: 'Copy',
+																			onClick: copyToClipboard,
 																		}),
 																	],
 																}),
